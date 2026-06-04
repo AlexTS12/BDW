@@ -1,0 +1,21 @@
+transaction_id,account_id,transaction_type,amount,transaction_date,merchant_name,category,created_at
+1,1,deposit,2500,31/01/2022 09:00,Employer Inc,salary,31/01/2022
+2,1,withdrawal,-45.2,02/02/2022 13:20,Tesco,groceries,02/02/2022
+3,2,deposit,500,20/02/2022 10:00,Transfer,savings,20/02/2022
+4,3,withdrawal,-120,15/01/2022 18:45,Amazon,shopping,15/01/2022
+5,4,deposit,300,05/02/2022 11:30,Transfer,savings,05/02/2022
+6,5,withdrawal,-120,31/01/2022 09:00,Walmart,groceries,01/04/2022
+7,6,deposit,300,02/02/2022 13:20,Employer Inc,salary,31/01/2023
+8,7,withdrawal,-60,20/02/2022 10:00,Airline,travel,20/02/2023
+9,8,deposit,1800,15/01/2022 18:45,Transfer,savings,25/03/2023
+10,9,withdrawal,-200,05/02/2022 11:30,tesco,groceries,10/04/2022
+11,10,deposit,700,31/01/2022 09:00,Uber Eats,food,20/05/2022
+12,11,withdrawal,-35.75,02/02/2022 13:20,Apple Store,electronics,30/06/2022
+13,12,withdrawal,-400,20/02/2022 10:00,Employer Inc,salary,01/08/2022
+14,13,deposit,300,15/01/2022 18:45,Booking.com,travel,10/09/2022
+15,14,withdrawal,-150,05/02/2022 11:30,McDonalds,food,01/10/2022
+16,15,withdrawal,2200,31/01/2022 09:00,Starbucks,food,10/02/2022
+17,1,withdrawal,-500,02/02/2022 13:20,Employer Inc,salary,31/01/2022
+18,3,deposit,1500,20/02/2022 10:00,Netflix,entertainment,05/02/2023
+19,6,withdrawal,-25,15/01/2022 18:45,Bus Service,travel,12/04/2022
+20,9,withdrawal,-15,05/02/2022 11:30,Netflix,entertainment,12/04/2022

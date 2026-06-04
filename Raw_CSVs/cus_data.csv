@@ -1,0 +1,4 @@
+customer_id,first_name,last_name,date_of_birth,email
+1,John,Smith,15/06/1985,john.smith@email.com
+2,Sarah,Khan,22/09/1990,sarah.k@email.com
+3,David,Brown,03/11/1978,david.b@email.com
