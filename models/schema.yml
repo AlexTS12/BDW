@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: bdwDataset
+    database: bdw-project-496107
+    schema: bdwDataset
+
+    tables:
+      - name: customerTable
+      - name: accountTable
+      - name: transactionTable

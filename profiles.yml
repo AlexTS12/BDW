@@ -1,0 +1,10 @@
+bdwDataset:
+  target: dev 
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth
+      project: bdw-project-496107
+      dataset: bdwDataset
+      location: EU
+      threads: 4
